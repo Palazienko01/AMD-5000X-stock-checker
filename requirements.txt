@@ -1,0 +1,4 @@
+lxml
+colorama
+audiosimple
+pydub
